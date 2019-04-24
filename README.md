@@ -1,2 +1,3 @@
 # libigl-web
-libigl in browser
+
+[libigl](https://github.com/libigl/libigl/) in browser
